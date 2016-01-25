@@ -10,3 +10,6 @@ java exemplul_2
 
 
 Atentie! clasa Thrd se va suprascrie la fiecare recompilare!
+```
+rm *.class
+```
