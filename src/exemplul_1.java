@@ -24,8 +24,10 @@ class exemplul_1 {
         Thrd Ob2 = new Thrd(2, NUM);
         Thread t1 = new Thread(Ob1);
         Thread t2 = new Thread(Ob2);
+
         t1.start();
         t2.start();
+
         for (int k = 0; k < NUM; k++) 
         {
           System.out.print("0 ");
