@@ -23,6 +23,7 @@ class exemplul_0 {
         Thrd Ob2 = new Thrd(2, NUM);
         Ob1.start();
         Ob2.start();
+
         for (int k = 0; k < NUM; k++) 
         {
           System.out.print("0 ");
