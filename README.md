@@ -5,5 +5,5 @@
 ```
 cd src
 javac exemplul_2.java 
-java
+java exemplul_2
 ```
